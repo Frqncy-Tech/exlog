@@ -1,10 +1,10 @@
 {
   "name": "@frqncy/exlog",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Simple Express logger",
   "main": "index.js",
   "scripts": {
-    "publish" : "npm publish --access public"
+    "package": "npm publish --access public"
   },
   "repository": {
     "type": "git",
