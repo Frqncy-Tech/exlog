@@ -1,0 +1,19 @@
+{
+  "name": "@frqncy/exlog",
+  "version": "0.0.0",
+  "description": "Simple Express logger",
+  "main": "index.js",
+  "scripts": {
+    "publish" : "npm publish --access public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/frqncy/exlog.git"
+  },
+  "author": "Frequency Technology",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/frqncy/exlog/issues"
+  },
+  "homepage": "https://gitlab.com/frqncy/exlog#readme"
+}
