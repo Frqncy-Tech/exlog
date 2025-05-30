@@ -4,6 +4,7 @@
   "description": "Simple Express logger",
   "main": "index.js",
   "scripts": {
+    "test": "jest",
     "package": "npm publish --access public"
   },
   "repository": {
@@ -15,5 +16,12 @@
   "bugs": {
     "url": "https://gitlab.com/frqncy/exlog/issues"
   },
-  "homepage": "https://gitlab.com/frqncy/exlog#readme"
+  "homepage": "https://gitlab.com/frqncy/exlog#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ]
 }
